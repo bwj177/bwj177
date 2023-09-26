@@ -1,3 +1,11 @@
++ brief introduction👨‍🎓：
+  +  🛠  keep young keep study~
+  +  💼 NetEase
+  +  🏫 CQUPT
+  +  📮  baowenjie20@163.com
+  +  📖 [https://juejin.cn/user/817692384431470/columns](https://juejin.cn/user/2494115794402254)
+
+
 <table border=0>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=BWJ177&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="brownJay's GitHub stats" style="zoom:100%;" align="left"/></td>
