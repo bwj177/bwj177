@@ -18,7 +18,6 @@
   </tr>
 </table>
 
-![brownJay's github activity graph](https://raw.githubusercontent.com/bwj177/bwj177/output/github-contribution-grid-snake.svg)
 
 <p>
   <a href="https://github.com/bwj177/localCache">
@@ -34,4 +33,8 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bwj177&repo=shortner&theme=vue-light" />
   </a>
 </p>
+
+
+![brownJay's github activity graph](https://raw.githubusercontent.com/bwj177/bwj177/output/github-contribution-grid-snake.svg)
+
 
