@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg">
+
 
 + brief introduction👨‍🎓：
   +  🛠  keep young keep study~
@@ -6,7 +6,6 @@
   +  🏫 CQUPT Undergraduate/2025
   +  📮  baowenjie20@163.com
   +  📖 [https://juejin.cn/user/817692384431470/columns](https://juejin.cn/user/2494115794402254)
-
 
 
 
